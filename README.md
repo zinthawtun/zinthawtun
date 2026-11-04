@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cosmic-sovereign.svg" alt="Retro pixel-art cosmic sovereign flying through a scrolling arcade starfield" width="100%" />
+  <img src="./assets/retro-sovereign.svg" alt="Modern-retro pixel ruler gliding through a scrolling neon starfield" width="100%" />
   <h1>🌌 Zinthaw Tun</h1>
   <p><strong>Architect of my own little universe.</strong></p>
   <p>Building web experiences, mapping ideas, and turning curiosity into code.</p>
