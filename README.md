@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cosmic-sovereign.svg" alt="Original illustration of a cosmic sovereign beneath a starfield" width="100%" />
+  <img src="./assets/cosmic-sovereign.svg" alt="Animated cosmic sovereign travelling through a violet starfield; a still image is shown when reduced motion is enabled" width="100%" />
   <h1>🌌 Zinthaw Tun</h1>
   <p><strong>Architect of my own little universe.</strong></p>
   <p>Building web experiences, mapping ideas, and turning curiosity into code.</p>
