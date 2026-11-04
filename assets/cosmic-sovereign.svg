@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Cosmic Sovereign</title>
+  <desc id="desc">An original, stylized cosmic ruler in an obsidian crown, framed by a violet nebula and stars.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B1B"/>
+      <stop offset=".52" stop-color="#17102D"/>
+      <stop offset="1" stop-color="#090C20"/>
+    </linearGradient>
+    <radialGradient id="nebula" cx="0" cy="0" r="1" gradientTransform="matrix(0 240 -400 0 600 200)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cloak" x1="600" y1="190" x2="600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#29213F"/>
+      <stop offset="1" stop-color="#090B16"/>
+    </linearGradient>
+    <linearGradient id="crown" x1="530" y1="110" x2="670" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3C969"/>
+      <stop offset=".5" stop-color="#FFF1B8"/>
+      <stop offset="1" stop-color="#A76D32"/>
+    </linearGradient>
+    <filter id="glow" x="350" y="0" width="500" height="500" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1200v420H0z"/>
+  <path fill="url(#nebula)" d="M0 0h1200v420H0z"/>
+  <g fill="#E9D5FF">
+    <circle cx="86" cy="76" r="2"/><circle cx="166" cy="290" r="1.5"/><circle cx="259" cy="122" r="1.5"/>
+    <circle cx="331" cy="354" r="2"/><circle cx="405" cy="71" r="1.5"/><circle cx="476" cy="264" r="1"/>
+    <circle cx="734" cy="66" r="1.5"/><circle cx="805" cy="314" r="2"/><circle cx="889" cy="120" r="1.5"/>
+    <circle cx="970" cy="352" r="1.5"/><circle cx="1041" cy="79" r="2"/><circle cx="1125" cy="255" r="1.5"/>
+    <circle cx="194" cy="185" r="1"/><circle cx="1010" cy="194" r="1"/><circle cx="293" cy="237" r="1"/>
+  </g>
+  <circle cx="600" cy="210" r="126" fill="#A855F7" fill-opacity=".3" filter="url(#glow)"/>
+  <circle cx="600" cy="204" r="112" stroke="#D8B4FE" stroke-opacity=".42" stroke-width="2"/>
+  <circle cx="600" cy="204" r="98" stroke="#C084FC" stroke-opacity=".22"/>
+  <path d="M399 420c17-106 88-172 201-172s184 66 201 172H399Z" fill="url(#cloak)" stroke="#9B79C8" stroke-opacity=".58" stroke-width="2"/>
+  <path d="M520 272c18 23 45 37 80 37s62-14 80-37l32 148H488l32-148Z" fill="#171321" stroke="#6D5A86" stroke-width="2"/>
+  <path d="M538 146c0-43 27-70 62-70s62 27 62 70v40c0 47-27 79-62 79s-62-32-62-79v-40Z" fill="#14121B" stroke="#D5C4E8" stroke-opacity=".78" stroke-width="3"/>
+  <path d="m526 144 15-48 24 31 16-53 20 48 22-48 14 53 27-31 10 48-36 13h-76l-36-13Z" fill="#17131F" stroke="url(#crown)" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m548 166 32-8m40 0 32 8" stroke="#C4A8E8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M571 205c18 12 40 12 58 0" stroke="#8C78A5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M597 151v12" stroke="#FDE68A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M600 309v96" stroke="#A855F7" stroke-opacity=".7" stroke-width="2"/>
+  <circle cx="600" cy="319" r="5" fill="#E9D5FF"/>
+</svg>
