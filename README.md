@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/chef-of-the-universe.svg" alt="Modern-retro pixel chef cooking in a scrolling neon starfield" width="100%" />
+  <img src="./assets/let-him-cook.svg" alt="Modern-retro pixel chef cooking in a scrolling neon starfield" width="100%" />
   <h1>👨‍🍳 Zinthaw Tun</h1>
   <p><strong>Always cooking. Currently cooking: agentic software delivery.</strong></p>
   <p>Developer exploring how AI agents can plan, build, test, and ship software alongside humans.</p>
