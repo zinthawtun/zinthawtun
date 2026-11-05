@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/grilling-code.svg" alt="Modern-retro pixel chef cooking in a scrolling neon starfield" width="100%" />
   <h1>👨‍🍳 Zinthaw Tun</h1>
-  <p><strong>Always cooking. Currently cooking: agentic software delivery.</strong></p>
+  <p><strong>Always cooking. Currently cooking: agentic software development life cycle.</strong></p>
   <p>Developer exploring how AI agents can plan, build, test, and ship software alongside humans.</p>
 </div>
 
